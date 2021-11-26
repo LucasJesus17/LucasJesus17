@@ -4,7 +4,7 @@ Me chamo Lucas
 
 Este é um pouco de que sou:
 
-- 👨‍🎓 Hoje participando do bootcamp da Generation
+- 👨‍🎓 Hoje estou participando do bootcamp da Generation
 - 📕 Estudando para me tornar um desenvolvedor full stack com foco em java
 - 💖 Amo conhecer lugar nos tempos livre
 - 😄 Pronouns: Ele/Dele
