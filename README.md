@@ -6,12 +6,8 @@ Este é um pouco de que sou:
 
 - 👨‍🎓 Hoje participando do bootcamp da Generation
 - 📕 Estudando para me tornar um desenvolvedor full stack com foco em java
-- 💖 Amo conhecer lugar nos tempos liver
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Lucas.silvaj2001@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💖 Amo conhecer lugar nos tempos livre
+- 😄 Pronouns: Ele/Dele
 
 
 <div align="center">
