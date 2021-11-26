@@ -4,6 +4,7 @@ Me chamo Lucas
 
 Este é um pouco de que sou:
 
+- 👨‍🎓 Curso faculdade no Senac Santo Amaro
 - 👨‍🎓 Hoje estou participando do bootcamp da Generation
 - 📕 Estudando para me tornar um desenvolvedor full stack com foco em java
 - 💖 Amo conhecer novos lugares nos tempos livres
