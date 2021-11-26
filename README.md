@@ -1,15 +1,13 @@
-### Olá Bem vindo(a) ao meu perfil
-Me chamo Lucas
+### Bem vindo(a) ao meu perfil 
 
+### Olá me chamo Lucas de Jesus Silva
 
-Este é um pouco de que sou:
+Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Generation.
 
-- 👨‍🎓 Curso faculdade no Senac Santo Amaro
-- 👨‍🎓 Hoje estou participando do bootcamp da Generation
-- 📕 Estudando para me tornar um desenvolvedor full stack com foco em java
-- 💖 Amo conhecer novos lugares nos tempos livres
-- 🏠 Sou de São Paulo
-- 😄 Pronouns: Ele/Dele
+Minha meta é contribuir com sua empresa transformando meu conhecimento academico e sede de conhecimento em realizações.
+
+ - 👨‍🎓  Estou estudando estrutura de dados, SpringBoot,MySQL e Docker.
+
 
 
 <div align="center">
@@ -23,6 +21,10 @@ Este é um pouco de que sou:
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
   
   ##
