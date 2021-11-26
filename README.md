@@ -6,8 +6,6 @@ Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Gene
 
 Minha meta é contribuir com sua empresa transformando meu conhecimento academico e sede de conhecimento em realizações.
 
- - 👨‍🎓  Estou estudando Html, Css, SpringBoot,MySQL e Docker.
-
 
 
 <div align="center">
