@@ -1,11 +1,16 @@
-### Bem vindo(a) ao meu perfil 
+### Você é o nosso ![](https://visitor-badge.glitch.me/badge?page_id=LucasJesus17.LucasJesus17) visitante 🎉🎉 Bem vindo(a) ao meu perfil !!
 
 ### Olá me chamo Lucas de Jesus Silva
 
-Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Generation.
+<div>
+Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Generation &nbsp; 
 
 Minha meta é contribuir com sua empresa transformando meu conhecimento academico e sede de conhecimento em realizações.
 
+ ##
+ 
+<img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/original/000/538/716/7f5.gif" width="350" height="250" />
+</div>
 
 
 <div align="center">
