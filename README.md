@@ -25,6 +25,7 @@ Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmi
   <img align="center" alt="Lucas-BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Lucas-Mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit">
   <img align="center" alt="Lucas-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=whit">
+ 
  </div>
 
   ##
@@ -32,7 +33,9 @@ Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmi
 <div>
     <a href="https://www.linkedin.com/in/lucas-de-jesus-silva-7a5b85219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-           badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:Lucas.silvaj2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+ 
+ ### Entre em contato adoraria, conversar com você !!
+ 
   </br>
   
   ![Snake animation](https://github.com/LucasJesus17/LucasJesus17/blob/output/github-contribution-grid-snake.svg)
