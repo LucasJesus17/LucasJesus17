@@ -1,18 +1,12 @@
-<img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/original/000/538/716/7f5.gif" width="600" height="250" />
-
-
- ##
- 
-
 ### Você é o meu ![](https://visitor-badge.glitch.me/badge?page_id=LucasJesus17.LucasJesus17) visitante 🎉🎉 Bem vindo(a) ao meu perfil !!
 
 ### Olá me chamo Lucas de Jesus Silva
-
-<div>
+ 
 Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Generation ; 
  
 Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmico e sede de conhecimento em realizações
 
+ ##
 
 <div align="center">
   <a href="https://github.com/LucasJesus17">
@@ -29,9 +23,9 @@ Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmi
   <img align="center" alt="Lucas-BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Lucas-Mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit">
   <img align="center" alt="Lucas-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=whit">
-
+  <img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/original/000/538/716/7f5.gif" width="230" height="180" />
 </div>
-  
+
   ##
   
 <div>
