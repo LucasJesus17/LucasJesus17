@@ -1,12 +1,16 @@
 ### Você é o meu ![](https://visitor-badge.glitch.me/badge?page_id=LucasJesus17.LucasJesus17) visitante, 🎉🎉 Bem vindo(a) ao meu perfil !!
 
 ### Olá me chamo Lucas de Jesus Silva
- 
+
+<img width = "200" align="right" src="https://c.tenor.com/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif">
+
 Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Generation ; 
  
 Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmico e sede de conhecimento em realizações
 
  -👨‍🎓 Atualmente estudo Html, Css, SpringBoot, Mysql, React
+ 
+
 
  ##
 
@@ -15,6 +19,7 @@ Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasJesus17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJesus17&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,7 +29,7 @@ Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmi
   <img align="center" alt="Lucas-GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Lucas-BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Lucas-Mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit">
-  <img align="center" alt="Lucas-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=whit">
+  <img align="center" alt="Lucas-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
  
  </div>
 
