@@ -4,9 +4,9 @@
 
 <img width = "180" align="right" src="https://c.tenor.com/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif">
 
-Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Generation ; 
+Sou um futuro Desenvolvedor Full Stack Java Junior pelo Senac Santo Amaro e Generation. 
  
-Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmico e sede de conhecimento em realizações
+Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmico e sede de conhecimento em realizações.
 
  -👨‍🎓 Atualmente estudo Html, Css, SpringBoot, Mysql, React
  
