@@ -16,8 +16,8 @@ Minha meta é contribuir com sua empresa transformando meu conhecimento acadêmi
 
 <div align="center">
   <a href="https://github.com/LucasJesus17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasJesus17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJesus17&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LucasJesus17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJesus17&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
   
