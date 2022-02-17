@@ -1,4 +1,4 @@
-### Você é o meu ![](https://visitor-badge.glitch.me/badge?page_id=LucasJesus17.LucasJesus17) visitante, 🎉🎉 Bem vindo(a) ao meu perfil !!
+### Bem vindo(a) ao meu perfil !!
 
 ### Olá me chamo Lucas de Jesus Silva
 
