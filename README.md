@@ -1,4 +1,4 @@
-### Bem vindo(a) ao meu perfil !!
+### Bem vinde ao meu perfil !!
 
 ### Olá me chamo Lucas de Jesus Silva
 
